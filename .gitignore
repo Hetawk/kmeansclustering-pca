@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Editor swap/temp files
+*.swp
+*~
+
+# Octave/Matlab
+*.octave_history
+octave-core*
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
